@@ -1,0 +1,38 @@
+{
+  "update_id": 223138718,
+  "message": {
+    "chatId": 728861786,
+    "superGroupMessage": false,
+    "reply": false,
+    "userMessage": true,
+    "groupMessage": false,
+    "channelMessage": false,
+    "command": true,
+    "message_id": 22,
+    "from": {
+      "bot": false,
+      "id": 728861786,
+      "first_name": "Sergey",
+      "is_bot": false,
+      "language_code": "ru"
+    },
+    "date": 1614675207,
+    "chat": {
+      "groupChat": false,
+      "superGroupChat": false,
+      "channelChat": false,
+      "userChat": true,
+      "id": 728861786,
+      "type": "private",
+      "first_name": "Sergey"
+    },
+    "text": "/start",
+    "entities": [
+      {
+        "type": "bot_command",
+        "offset": 0,
+        "length": 6
+      }
+    ]
+  }
+}
